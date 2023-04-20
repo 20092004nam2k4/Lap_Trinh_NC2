@@ -1,5 +1,5 @@
-package thuhanh.AnimalAndInterfaceEdible;
+package thuhanh.AnimalAndCat;
 
 public interface Edible {
-  String howToEat();
+  String HowToEat();
 }
